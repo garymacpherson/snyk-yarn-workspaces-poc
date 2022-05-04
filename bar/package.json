@@ -1,0 +1,11 @@
+{
+  "name": "bar",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "4.5.5"
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
